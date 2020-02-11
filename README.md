@@ -1,2 +1,5 @@
 # hello-world
-csak egy újabb repo
+
+Sziasztok!
+
+Új vagyok itt és szeretnék többet megtudni a git-ről!
